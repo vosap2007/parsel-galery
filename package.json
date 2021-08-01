@@ -1,0 +1,24 @@
+{
+  "name": "parsel-galery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel <your entry file>",
+    "build": "parcel build <your entry file>"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vosap2007/parsel-galery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vosap2007/parsel-galery/issues"
+  },
+  "homepage": "https://github.com/vosap2007/parsel-galery#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
